@@ -21,7 +21,8 @@
 
 # 🧑‍💻 LionHeart-Server Developers
 
-<img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/84304802/c85a1c55-b326-47a5-bdb0-f87ade8e098b" width="175"> | <img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/84304802/0d18eab6-7026-4684-b4f9-7393e3d4480d" width="175"> | <img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/84304802/971c974e-ebca-45a6-8d0f-b2eda368c870" width="175"> |
+
+<img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/84304802/c85a1c55-b326-47a5-bdb0-f87ade8e098b" width="175"> | <img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/84304802/0d18eab6-7026-4684-b4f9-7393e3d4480d" width="175"> | <img src="https://github.com/Team-LionHeart/LionHeart-Server/assets/64000241/1774937e-eec4-4dbb-b43f-601a76779d31" width="175"> |
 :---------:|:----------:|:---------:|
 최승준 | 공혁준 | 강수경 | 
 [PgmJun](https://github.com/PgmJun) | [orijoon98](https://github.com/orijoon98) | [sookyungg](https://github.com/sookyungg) | 
