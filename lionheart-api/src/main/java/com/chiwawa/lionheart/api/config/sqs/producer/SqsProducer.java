@@ -57,6 +57,13 @@ public class SqsProducer {
         }
     }
 
+    @Recover
+    private void recoverListener(AmazonSQSException exception, MessageDto dto) {
+        throw new InternalServerException(
+                String.format("SQS로 메시지를 Produce 하는 과정에서 에러가 발생하며 메시지 발행에 실패하였습니다. :: Message -> %s", dto.toString())
+                , SQS_EXCEPTION);
+    }
+
     private Map<String, MessageAttributeValue> createMessageAttributes(String type) {
         final String dataType = "String";
         return Map.of(MessageType.MESSAGE_TYPE_HEADER, new MessageAttributeValue()
