@@ -36,6 +36,7 @@ public enum ErrorCode {
 
 	// Internal Server Exception
 	INTERNAL_SERVER_EXCEPTION("I001", "서버 내부에서 에러가 발생하였습니다."),
+	SQS_EXCEPTION("I002", "SQS 연동 과정에서 서버 내부 에러가 발생하였습니다."),
 
 	// Bad Gateway Exception
 	BAD_GATEWAY_EXCEPTION("B001", "외부 연동 중 에러가 발생하였습니다.");
